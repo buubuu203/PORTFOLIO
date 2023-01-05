@@ -110,6 +110,7 @@ h2 {
 	font-size: 30px;
 	font-weight: 600;
 	font-family: "Comic Neue", "Livvic";
+	margin-bottom: 20px;
 }
 
 p {
@@ -129,6 +130,7 @@ p {
 	align-items: center;
 	text-align: center;
 }
+
 .work_skills a {
 	color: white;
 	text-decoration: none;
@@ -136,15 +138,16 @@ p {
 	font-size: 15px;
 	font-family: "poppins", sans-serif;
 	display: inline-block;
-	padding: 10px 20px;
-	background-color: #9752a3;
-	border: 1px solid white;
+	padding: 5px 10px;
+	background-color: #50265790;
+	border: 0.5px solid rgba(201, 148, 223, 0.634);
 	border-radius: 100px;
 }
 
 .work_skills a:hover {
 	background-color: #ffffff;
 	color: #1a0b2e;
+	border: 1px solid #9752a3;
 }
 .left {
 	flex: 1;
